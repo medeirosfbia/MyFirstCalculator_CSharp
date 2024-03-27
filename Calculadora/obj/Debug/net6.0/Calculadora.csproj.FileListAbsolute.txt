@@ -13,3 +13,17 @@ C:\Users\Beatriz\Documents\bia\C#\curso-c#\projetos\Calculadora\Calculadora\obj\
 C:\Users\Beatriz\Documents\bia\C#\curso-c#\projetos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
 C:\Users\Beatriz\Documents\bia\C#\curso-c#\projetos\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
 C:\Users\Beatriz\Documents\bia\C#\curso-c#\projetos\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
+C:\Users\Fatecano\Downloads\MyFirstCalculator_CSharp-main\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\Users\Fatecano\Downloads\MyFirstCalculator_CSharp-main\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\Fatecano\Downloads\MyFirstCalculator_CSharp-main\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Users\Fatecano\Downloads\MyFirstCalculator_CSharp-main\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Users\Fatecano\Downloads\MyFirstCalculator_CSharp-main\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\Fatecano\Downloads\MyFirstCalculator_CSharp-main\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatecano\Downloads\MyFirstCalculator_CSharp-main\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Fatecano\Downloads\MyFirstCalculator_CSharp-main\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\Fatecano\Downloads\MyFirstCalculator_CSharp-main\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Fatecano\Downloads\MyFirstCalculator_CSharp-main\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Users\Fatecano\Downloads\MyFirstCalculator_CSharp-main\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+C:\Users\Fatecano\Downloads\MyFirstCalculator_CSharp-main\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\Fatecano\Downloads\MyFirstCalculator_CSharp-main\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+C:\Users\Fatecano\Downloads\MyFirstCalculator_CSharp-main\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll

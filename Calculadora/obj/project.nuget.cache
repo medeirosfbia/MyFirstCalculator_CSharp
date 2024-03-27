@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "i8sTz/OzUnKUVyx409RfowhVYT9iVhdL+K8MuoB0TGNBctW7woJYBnS4fQrCEFGznRw1sNRmJgCTbdyKDDXnWw==",
+  "dgSpecHash": "eqsEceSlvTIT/JfLMRUePPPqOBtMBvDzzbW7VWSY9I3FYxhnFtBuT6Nbz5/+23lPfJung2yLHPQn0ZWXvXPHYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Beatriz\\Documents\\bia\\C#\\curso-c#\\projetos\\Calculadora\\Calculadora\\Calculadora.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Fatecano\\Downloads\\MyFirstCalculator_CSharp-main\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatecano\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Fatecano\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Fatecano\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Fatecano\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }

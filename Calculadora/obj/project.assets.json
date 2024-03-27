@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Beatriz\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Fatecano\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Beatriz\\Documents\\bia\\C#\\curso-c#\\projetos\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\Fatecano\\Downloads\\MyFirstCalculator_CSharp-main\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\Beatriz\\Documents\\bia\\C#\\curso-c#\\projetos\\Calculadora\\Calculadora\\Calculadora.csproj",
-      "packagesPath": "C:\\Users\\Beatriz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Beatriz\\Documents\\bia\\C#\\curso-c#\\projetos\\Calculadora\\Calculadora\\obj\\",
+      "projectPath": "C:\\Users\\Fatecano\\Downloads\\MyFirstCalculator_CSharp-main\\Calculadora\\Calculadora.csproj",
+      "packagesPath": "C:\\Users\\Fatecano\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Fatecano\\Downloads\\MyFirstCalculator_CSharp-main\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Beatriz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Fatecano\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -46,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -62,12 +61,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.28, 6.0.28]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.28, 6.0.28]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
