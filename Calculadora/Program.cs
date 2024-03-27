@@ -89,6 +89,8 @@ namespace MyCalculator
                 }
             }
             Console.WriteLine(result.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Aperte enter para sair.");
+            string end = Console.ReadLine();
         }
     }
 }
